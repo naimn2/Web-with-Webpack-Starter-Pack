@@ -4,10 +4,11 @@ Clone or download this repository.
 ```
 npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin copy-webpack-plugin clean-webpack-plugin css-loader style-loader nodemon eslint
 ```
-## Initializing Eslint (If there is no eslint config file yet)
+## Reinitializing Eslint Config (Optional)
 ```
 npx eslint --init
 ```
+Current Eslint Config:
 - How would you like to use ESLint? -> To check, find problems, and enforce code style.
 - What type of modules does your project use? -> JavaScript modules (import/export).
 - Which framework does your project use? -> None of these.
