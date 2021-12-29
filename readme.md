@@ -1,9 +1,10 @@
 # Building Website with Webpack Starter Pack
+Clone or download this repository.
 ## Installing Packages
 ```
 npm i --save-dev webpack webpack-cli webpack-dev-server html-webpack-plugin copy-webpack-plugin clean-webpack-plugin css-loader style-loader nodemon eslint
 ```
-## Initializing Eslint
+## Initializing Eslint (If there is no eslint config file yet)
 ```
 npx eslint --init
 ```
